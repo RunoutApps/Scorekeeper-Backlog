@@ -3,6 +3,18 @@ Scorekeeper-Backlog
 
 Runout Apps bug and enhancement back log
 
+How to add an item to the backlog
+==================
+
+1. Click the Issues Link on the right toolbar(second item from the top) or just go here https://github.com/RunoutApps/Scorekeeper-Backlog/issues
+2. Click the 'New Issue' button (green button towards the top right)
+3. Add a description
+4. Copy the template text(below) for the bug or enhacement
+5. Fill out the copied template questions
+5. Attach screenshots if possible
+6. Select the labels that apply (labels are to the right of the main issue text box) minimally select bug or enhacement depending on the type
+7. Click the 'Submit new Issue' button
+
 
 Bug template (Please fill out completely)
 ===================
