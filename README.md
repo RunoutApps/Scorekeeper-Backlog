@@ -20,7 +20,7 @@ Steps to reproduce:
 
 Actual Results:
 
-Epected Results:
+Expected Results:
 
 Enhancement Template
 ===================
